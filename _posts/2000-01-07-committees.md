@@ -1,6 +1,6 @@
 ---
 title: "Committees"
-bg: green
+bg: gray
 color: white
 style: left
 fa-icon: users
