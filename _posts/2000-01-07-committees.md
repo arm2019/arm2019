@@ -18,7 +18,7 @@ icon-title: true
 * Gordon Blair, Lancaster Univ., UK.
 * Fabio M Costa, Federal Univ of Goias, Brazil.
 * Fabio Kon, Univ. of Sao Paulo, Brazil.
-* Renato Cerqueira, PUC-Rio, Brazil.
+* Renato Cerqueira, IBM Research, Brazil.
 * Paulo Ferreira, INESC-ID, Portugal.
 * Nalini Venkatasubramanian, Univ. of California, Irvine, USA.
 
