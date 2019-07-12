@@ -12,7 +12,9 @@ icon-title: true
 
 All submissions should be made electronically through: <a href="https://middleware19.hotcrp.com"> https://middleware19.hotcrp.com </a>
 
-Authors should use the "ACM Standard" format for conference proceedings, with a limit of 6 pages.
+Submitted and accepted papers should be no longer than 6 pages in the standard ACM format for conference proceedings.
+
+At least one author on each accepted paper must hold a full pre-conference registration. Papers will be available in the ACM Digital Library.
 
 Attendees must register in the IACM/IFIP/Usenix Middleware 2019 to take part in ARM2019.
 
