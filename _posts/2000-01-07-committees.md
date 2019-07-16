@@ -24,7 +24,7 @@ icon-title: true
 
 ## Program Committee
 
-* Kyoungho An RTI Inc, USA
+* Kyoungho An, RTI Inc, USA
 * Philippe Merle, INRIA, France 
 * Yusuf Sarwar, Univ. of MIssouri, Kansas CIty, USA
 * Francois Taiani, University of Rennes 1, France
