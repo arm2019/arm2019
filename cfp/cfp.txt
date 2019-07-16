@@ -113,10 +113,10 @@ Contact: mstelmar at br(dot)ibm(dot)com
 
 Programme Committee
 ---------------------------
-* Kyoungho An RTI Inc USA 
+* Kyoungho An, RTI Inc USA 
 * Philippe Merle Inria France 
 * Yusuf Sarwar Univ. of Missouri, Kansas City USA 
-* François Taiani University of Rennes 1 France 
+* Francois Taiani University of Rennes 1 France 
 * Frank Eliassen University of Oslo Norway 
 * Gang Huang Peking University China 
 * Jan S. Rellermeyer, TU Delft, The Netherlands 
