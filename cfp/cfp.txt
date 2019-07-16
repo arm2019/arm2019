@@ -123,17 +123,17 @@ Steering Committee
 
 
 Programme Committee
---xx---------------
-* Kyoungho An, RTI Inc USA 
-* Philippe Merle Inria France 
-* Yusuf Sarwar Univ. of Missouri, Kansas City USA 
-* Francois Taiani University of Rennes 1 France 
-* Frank Eliassen University of Oslo Norway 
-* Gang Huang Peking University China 
+-------------------
+* Kyoungho An, RTI Inc, USA 
+* Philippe Merle, INRIA France 
+* Yusuf Sarwar, Univ. of Missouri, Kansas City, USA 
+* Francois Taiani, University of Rennes 1, France 
+* Frank Eliassen, University of Oslo, Norway 
+* Gang Huang, Peking University, China 
 * Jan S. Rellermeyer, TU Delft, The Netherlands 
-* Francoise Sailhan CNAM, Paris, France France 
-* Nikolaos Georgantas Inria France 
-* Tobias Distler FAU Germany 
-* Thomas Ledoux Ecole des Mines de Nantes France 
+* Francoise Sailhan CNAM, Paris, France 
+* Nikolaos Georgantas, INRIA, France 
+* Tobias Distler, FAU, Germany 
+* Thomas Ledoux Ecole des Mines de Nantes. France 
 
 
