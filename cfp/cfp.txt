@@ -104,15 +104,26 @@ Internet Services and Applications.
 
 
 Workshop Co-Chairs
---------------
+------------------
 * Paul Grace, Aston University, UK
 * Mohan Kumar, Rochester Institute of Technology, USA
 * Marco Netto, IBM Research, Brazil
 
 Contact: mstelmar at br(dot)ibm(dot)com
 
+
+Steering Committee
+--------------------
+* Gordon Blair, Lancaster Univ., UK.
+* Fabio M Costa, Federal Univ of Goias, Brazil.
+* Fabio Kon, Univ. of Sao Paulo, Brazil.
+* Renato Cerqueira, IBM Research, Brazil.
+* Paulo Ferreira, INESC-ID, Portugal.
+* Nalini Venkatasubramanian, Univ. of California, Irvine, USA.
+
+
 Programme Committee
----------------------------
+--xx---------------
 * Kyoungho An, RTI Inc USA 
 * Philippe Merle Inria France 
 * Yusuf Sarwar Univ. of Missouri, Kansas City USA 
@@ -125,11 +136,4 @@ Programme Committee
 * Tobias Distler FAU Germany 
 * Thomas Ledoux Ecole des Mines de Nantes France 
 
-Steering Committee
---------------------
-* Gordon Blair, Lancaster Univ., UK.
-* Fabio M Costa, Federal Univ of Goias, Brazil.
-* Fabio Kon, Univ. of Sao Paulo, Brazil.
-* Renato Cerqueira, IBM Research, Brazil.
-* Paulo Ferreira, INESC-ID, Portugal.
-* Nalini Venkatasubramanian, Univ. of California, Irvine, USA.
+
