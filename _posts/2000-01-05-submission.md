@@ -10,7 +10,8 @@ icon-title: true
 ### Submission
 
 
-All submissions should be made electronically through: <a href="https://middleware19.hotcrp.com"> https://middleware19.hotcrp.com </a>
+All submissions should be made electronically through: <a href="https://arm2019.hotcrp.com"> https://arm2019.hotcrp.com </a>
+
 
 Submitted and accepted papers should be no longer than 6 pages in the standard ACM format for conference proceedings.
 
