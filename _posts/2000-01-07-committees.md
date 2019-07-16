@@ -24,15 +24,15 @@ icon-title: true
 
 ## Program Committee
 
-* Kyoungho An, RTI Inc, USA
-* Philippe Merle, INRIA, France 
-* Yusuf Sarwar, Univ. of MIssouri, Kansas CIty, USA
 * Francois Taiani, University of Rennes 1, France
+* Francoise Sailhan, CNAM, Paris, France
 * Frank Eliassen, University of Oslo, Norway
 * Gang Huang, Peking University, China 
 * Jan S. Rellermeyer, TU Delft, The Netherlands
-* Francoise Sailhan, CNAM, Paris, France
+* Kyoungho An, RTI Inc, USA
 * Nikolaos Georgantas, INRIA, France
-* Tobias Distler, FAU, Germany
+* Philippe Merle, INRIA, France 
 * Thomas Ledoux, Ecole des Mines de Nantes, France 
+* Tobias Distler, FAU, Germany
+* Yusuf Sarwar, Univ. of MIssouri, Kansas CIty, USA
 
