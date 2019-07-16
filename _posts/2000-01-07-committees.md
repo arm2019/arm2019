@@ -22,7 +22,7 @@ icon-title: true
 * Paulo Ferreira, INESC-ID, Portugal.
 * Nalini Venkatasubramanian, Univ. of California, Irvine, USA.
 
-## Program Committee
+## Programme Committee
 
 * Francois Taiani, University of Rennes 1, France
 * Francoise Sailhan, CNAM, Paris, France
