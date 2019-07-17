@@ -33,7 +33,7 @@ icon-title: true
 * Luis Veiga, Universidade de Lisboa /INESC-ID, Portugal
 * Nikolaos Georgantas, INRIA, France
 * Philippe Merle, INRIA, France 
-* Thomas Ledoux, Ecole des Mines de Nantes, France 
+* Thomas Ledoux, IMT Atlantique, France 
 * Tobias Distler, FAU, Germany
 * Yusuf Sarwar, Univ. of MIssouri, Kansas CIty, USA
 
