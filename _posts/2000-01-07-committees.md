@@ -30,6 +30,7 @@ icon-title: true
 * Gang Huang, Peking University, China 
 * Jan S. Rellermeyer, TU Delft, The Netherlands
 * Kyoungho An, RTI Inc, USA
+* Luis Veiga, Universidade de Lisboa /INESC-ID, Portugal
 * Nikolaos Georgantas, INRIA, France
 * Philippe Merle, INRIA, France 
 * Thomas Ledoux, Ecole des Mines de Nantes, France 
